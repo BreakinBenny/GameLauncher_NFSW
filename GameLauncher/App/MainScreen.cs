@@ -350,7 +350,7 @@ namespace GameLauncher {
                     EnsurePathExists = true,
                     EnsureFileExists = false,
                     AllowNonFileSystemItems = false,
-                    Title = "Select The Folder With NFS World Instalation",
+                    Title = "Select The Folder With NFS World Installation",
                     IsFolderPicker = true
                 };
 
